@@ -1,4 +1,4 @@
-package day02_0902.ch02.sec02;
+package day02_0902.ch03.sec02;
 
 public class ArithmeticOperatorExample {
 

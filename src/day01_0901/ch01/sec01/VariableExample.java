@@ -1,4 +1,4 @@
-package day01_0901.ch02.sec01;
+package day01_0901.ch01.sec01;
 
 public class VariableExample {
 

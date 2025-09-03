@@ -29,6 +29,7 @@ public class LogicalOperatorExample {
 		if(!result) {
 			System.out.println("2또는 3의 배수가 아니군요");
 		}
+
 	}
 
 }

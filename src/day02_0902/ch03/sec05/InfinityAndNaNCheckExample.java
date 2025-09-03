@@ -1,4 +1,4 @@
-package day02_0902.ch02.sec05;
+package day02_0902.ch03.sec05;
 
 public class InfinityAndNaNCheckExample {
 

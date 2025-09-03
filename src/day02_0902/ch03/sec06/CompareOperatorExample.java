@@ -1,4 +1,4 @@
-package day02_0902.ch02.sec06;
+package day02_0902.ch03.sec06;
 
 public class CompareOperatorExample {
 

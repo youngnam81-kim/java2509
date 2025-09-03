@@ -1,4 +1,4 @@
-package day02_0902.ch02.sec01;
+package day02_0902.ch03.sec01;
 
 public class SingOperatorExample {
 
