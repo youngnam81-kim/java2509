@@ -1,5 +1,4 @@
-package ch01;
-
+package ch002;
 public class VariableExample {
 
 	public static void main(String[] args) {

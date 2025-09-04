@@ -1,4 +1,4 @@
-package java2509.as;
+package ch002;
 
 public class TextBlockExample {
 	public static void main(String[] args) {

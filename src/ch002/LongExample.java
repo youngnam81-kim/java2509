@@ -1,4 +1,4 @@
-package java2509.as;
+package ch002;
 
 public class LongExample {
 	public static void main(String[] args) {
