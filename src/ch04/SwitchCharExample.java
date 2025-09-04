@@ -2,7 +2,7 @@ package ch04;
 
 public class SwitchCharExample {
 	public static void main(String[] args) {
-		char grade = 'B';
+		char grade = 'a';
 		
 		switch(grade) {
 			case 'A':
