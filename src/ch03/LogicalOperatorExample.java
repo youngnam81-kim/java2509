@@ -2,8 +2,8 @@ package ch03;
 
 public class LogicalOperatorExample {
 	public static void main(String[] args) {
-		int charCode = 'A';	
-		//int charCode = 'a';	
+		//int charCode = 'A';	
+		int charCode = 'a';	
 		//int charCode = '5';	
 		
 		if( (65<=charCode) & (charCode<=90) ) {

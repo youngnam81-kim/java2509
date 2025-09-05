@@ -1,4 +1,4 @@
-package ch002;
+package ch02;
 
 public class VariableScopeExample {
 	public static void main(String[] args) {

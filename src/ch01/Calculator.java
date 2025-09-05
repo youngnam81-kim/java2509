@@ -1,4 +1,4 @@
-package ch001;
+package ch01;
 
 public class Calculator {
 	public static void main(String[] args) {
