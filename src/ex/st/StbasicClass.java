@@ -4,6 +4,11 @@ public class StbasicClass {
 	public StbasicClass () {
 	System.out.println("ex1 =============================");
 	Student1 st1 = new Student1(); // 객체생성
+	System.out.println(st1.age);
+	System.out.println(st1.gender);
+	System.out.println(st1.grade);
+	System.out.println(st1.name);
+	
 	String str = null;
 	int num = 0;
 
