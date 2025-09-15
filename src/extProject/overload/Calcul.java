@@ -32,8 +32,6 @@ public class Calcul {
 		
 		System.out.println(Calculator.cnt);
 		System.out.println(calcul1.cnt1);
-		Calcul calcul = new Calcul();
-		System.out.println(calcul.cnt1);
 	}
 
 }

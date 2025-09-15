@@ -17,13 +17,13 @@ public class Bird extends Animal implements Flyable, Walkable{
 	@Override
 	public void walk() {
 		// TODO Auto-generated method stub
-		System.out.println("Bird");
+		System.out.println("총총총 걸어요.");
 		
 	}
 
 	@Override
 	public void fly() {
 		// TODO Auto-generated method stub
-		System.out.println("Bird");
+		System.out.println("훨훨훨 날아요.");
 	}
 }
